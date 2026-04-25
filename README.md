@@ -2,8 +2,7 @@
 
 A vanilla HTML/CSS/JS Battleship game. Place your fleet, then sink the AI's ships before it sinks yours.
 
-**Play it live:** https://battleship-lxjryjza.devinapps.com
-
+**Play it live:** https://erickontur.github.io/Battleship-Cognition-SDR-Challenge/
 ## Features
 - 10×10 grid, classic 5-ship fleet (Carrier, Battleship, Cruiser, Submarine, Destroyer)
 - Manual placement with rotation (press R), or one-click Auto-place
